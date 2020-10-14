@@ -105,8 +105,7 @@ input {
   width: 200px;
   padding: 10px;
   margin: -5px -20px -5px -5px;
-  height: 240px;
-}
+  }
 
 #bloc select option {
   padding: 0 10px;
